@@ -11,8 +11,8 @@ files = open('email.txt', 'r')
 bomb_emails = files.readlines()
 
 
-email = input("Enter your gmail_address:")
-password = input("Enter your gmail_password:")
+email = input("fniewdson@gmail.com:")
+password = input("Midso13794680:")
 message = input("Enter Message:")
 message_relode = int(input("How many message you want to send?:"))
 
